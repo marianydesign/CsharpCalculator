@@ -1,0 +1,9 @@
+G:\OneDrive - Rijn IJssel\2020 - 2021\voorbeeld projecten\C#\All C# Projects\Free Stuff\CsharpCalculator\My_Calculator\bin\Debug\My_Calculator.exe.config
+G:\OneDrive - Rijn IJssel\2020 - 2021\voorbeeld projecten\C#\All C# Projects\Free Stuff\CsharpCalculator\My_Calculator\bin\Debug\My_Calculator.exe
+G:\OneDrive - Rijn IJssel\2020 - 2021\voorbeeld projecten\C#\All C# Projects\Free Stuff\CsharpCalculator\My_Calculator\bin\Debug\My_Calculator.pdb
+G:\OneDrive - Rijn IJssel\2020 - 2021\voorbeeld projecten\C#\All C# Projects\Free Stuff\CsharpCalculator\My_Calculator\obj\Debug\CsharpCalculator.csproj.AssemblyReference.cache
+G:\OneDrive - Rijn IJssel\2020 - 2021\voorbeeld projecten\C#\All C# Projects\Free Stuff\CsharpCalculator\My_Calculator\obj\Debug\My_Calculator.Properties.Resources.resources
+G:\OneDrive - Rijn IJssel\2020 - 2021\voorbeeld projecten\C#\All C# Projects\Free Stuff\CsharpCalculator\My_Calculator\obj\Debug\CsharpCalculator.csproj.GenerateResource.cache
+G:\OneDrive - Rijn IJssel\2020 - 2021\voorbeeld projecten\C#\All C# Projects\Free Stuff\CsharpCalculator\My_Calculator\obj\Debug\CsharpCalculator.csproj.CoreCompileInputs.cache
+G:\OneDrive - Rijn IJssel\2020 - 2021\voorbeeld projecten\C#\All C# Projects\Free Stuff\CsharpCalculator\My_Calculator\obj\Debug\My_Calculator.exe
+G:\OneDrive - Rijn IJssel\2020 - 2021\voorbeeld projecten\C#\All C# Projects\Free Stuff\CsharpCalculator\My_Calculator\obj\Debug\My_Calculator.pdb
