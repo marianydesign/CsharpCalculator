@@ -7,3 +7,12 @@ G:\OneDrive - Rijn IJssel\2020 - 2021\voorbeeld projecten\C#\All C# Projects\Fre
 G:\OneDrive - Rijn IJssel\2020 - 2021\voorbeeld projecten\C#\All C# Projects\Free Stuff\CsharpCalculator\My_Calculator\obj\Debug\CsharpCalculator.csproj.CoreCompileInputs.cache
 G:\OneDrive - Rijn IJssel\2020 - 2021\voorbeeld projecten\C#\All C# Projects\Free Stuff\CsharpCalculator\My_Calculator\obj\Debug\My_Calculator.exe
 G:\OneDrive - Rijn IJssel\2020 - 2021\voorbeeld projecten\C#\All C# Projects\Free Stuff\CsharpCalculator\My_Calculator\obj\Debug\My_Calculator.pdb
+D:\OneDrive - Mariany Design\Eigen projecten\My_Calculator\My_Calculator\bin\Debug\My_Calculator.exe.config
+D:\OneDrive - Mariany Design\Eigen projecten\My_Calculator\My_Calculator\bin\Debug\My_Calculator.exe
+D:\OneDrive - Mariany Design\Eigen projecten\My_Calculator\My_Calculator\bin\Debug\My_Calculator.pdb
+D:\OneDrive - Mariany Design\Eigen projecten\My_Calculator\My_Calculator\obj\Debug\CsharpCalculator.csproj.AssemblyReference.cache
+D:\OneDrive - Mariany Design\Eigen projecten\My_Calculator\My_Calculator\obj\Debug\My_Calculator.Properties.Resources.resources
+D:\OneDrive - Mariany Design\Eigen projecten\My_Calculator\My_Calculator\obj\Debug\CsharpCalculator.csproj.GenerateResource.cache
+D:\OneDrive - Mariany Design\Eigen projecten\My_Calculator\My_Calculator\obj\Debug\CsharpCalculator.csproj.CoreCompileInputs.cache
+D:\OneDrive - Mariany Design\Eigen projecten\My_Calculator\My_Calculator\obj\Debug\My_Calculator.exe
+D:\OneDrive - Mariany Design\Eigen projecten\My_Calculator\My_Calculator\obj\Debug\My_Calculator.pdb

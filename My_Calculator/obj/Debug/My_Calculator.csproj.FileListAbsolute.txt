@@ -6,3 +6,13 @@ c:\users\omar\documents\visual studio 2013\Projects\My_Calculator\My_Calculator\
 c:\users\omar\documents\visual studio 2013\Projects\My_Calculator\My_Calculator\obj\Debug\My_Calculator.csproj.GenerateResource.Cache
 c:\users\omar\documents\visual studio 2013\Projects\My_Calculator\My_Calculator\obj\Debug\My_Calculator.exe
 c:\users\omar\documents\visual studio 2013\Projects\My_Calculator\My_Calculator\obj\Debug\My_Calculator.pdb
+D:\OneDrive - Mariany Design\Eigen projecten\My_Calculator\My_Calculator\bin\Debug\My_Calculator.exe.config
+D:\OneDrive - Mariany Design\Eigen projecten\My_Calculator\My_Calculator\bin\Debug\My_Calculator.exe
+D:\OneDrive - Mariany Design\Eigen projecten\My_Calculator\My_Calculator\bin\Debug\My_Calculator.pdb
+D:\OneDrive - Mariany Design\Eigen projecten\My_Calculator\My_Calculator\obj\Debug\My_Calculator.csproj.AssemblyReference.cache
+D:\OneDrive - Mariany Design\Eigen projecten\My_Calculator\My_Calculator\obj\Debug\My_Calculator.Calculator.resources
+D:\OneDrive - Mariany Design\Eigen projecten\My_Calculator\My_Calculator\obj\Debug\My_Calculator.Properties.Resources.resources
+D:\OneDrive - Mariany Design\Eigen projecten\My_Calculator\My_Calculator\obj\Debug\My_Calculator.csproj.GenerateResource.cache
+D:\OneDrive - Mariany Design\Eigen projecten\My_Calculator\My_Calculator\obj\Debug\My_Calculator.csproj.CoreCompileInputs.cache
+D:\OneDrive - Mariany Design\Eigen projecten\My_Calculator\My_Calculator\obj\Debug\My_Calculator.exe
+D:\OneDrive - Mariany Design\Eigen projecten\My_Calculator\My_Calculator\obj\Debug\My_Calculator.pdb

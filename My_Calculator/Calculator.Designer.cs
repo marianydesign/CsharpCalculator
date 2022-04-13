@@ -318,7 +318,7 @@
             // 
             // buttonReset
             // 
-            this.buttonReset.BackColor = System.Drawing.Color.OrangeRed;
+            this.buttonReset.BackColor = System.Drawing.Color.Black;
             this.buttonReset.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.buttonReset.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.buttonReset.ForeColor = System.Drawing.Color.White;
@@ -330,7 +330,7 @@
             this.buttonReset.UseVisualStyleBackColor = false;
             this.buttonReset.Click += new System.EventHandler(this.buttonReset_Click);
             // 
-            // csharp_calculator
+            // Calculator
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -353,8 +353,8 @@
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.textBox1);
-            this.Name = "csharp_calculator";
-            this.Text = "csharp_calculator";
+            this.Name = "Calculator";
+            this.Text = "Csharp Calculator";
             this.Load += new System.EventHandler(this.Calculator_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
